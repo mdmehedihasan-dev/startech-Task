@@ -10,7 +10,7 @@ function App() {
      <>
 
     <div>
-    <Navbar/>
+    <Navbar/> 
     <Header/>
     <Product/>
     
